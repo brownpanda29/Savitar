@@ -3,6 +3,22 @@
 ---
 
 # Ransomware PoC - Recursive File Encryption with AES-256
+▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+▒▒█▒▒▒▄██████████▄▒▒▒▒
+▒█▐▒▒▒████████████▒▒▒▒
+▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+▐┼▐▒▒██████████████▒▒▒
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+▒▒█████──────────▐███▌
+▒▒█▀▀██▄█─▄───▐─▄███▀▒
+▒▒█▒▒███████▄██████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒█████████▐▌██▌▒▒▒
+▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
+
+
 
 ## Overview
 This is a **proof of concept** (PoC) ransomware project written in **C++**. The program recursively searches the entire file system for files with specified extensions, uploads 10 randomly selected files to a remote server or API, and then encrypts the rest using **AES-256 encryption**. 
